@@ -1,0 +1,26 @@
+body {
+  background: #f8e8a6;
+  margin: 8px;
+  text-align: center;
+}
+
+p {
+  margin: 16px auto;
+}
+
+a {
+  color: green;
+  margin: 0 10px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+p .email {
+  color: blue;
+  margin: 0;
+}
